@@ -12,7 +12,7 @@ visual and haptic cues from noises in surroundings, giving more information to d
 
 
 ## Architecture
-![app architecture](images/architecuture.png?raw=true "Architecure")
+![app architecture](../images/architecuture.png?raw=true "Architecure")
 
 ## Setting Up - Application Frontend
 1. Ensure that Flutter and Android Studio are installed on your device and that you can run Flutter on your device locally. 
