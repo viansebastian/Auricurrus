@@ -3,12 +3,12 @@ Auricurrus is an IoT based solution to support the deaf in driving. Auricurrus p
 visual and haptic cues from noises in surroundings, giving more information to deaf drivers on what is happening around them.
 
 ## Features
-![welcome](images/welcome.png?raw=true "welcome")
-![frame](images/frames.png?raw=true "frame")
-![init](images/init.png?raw=true "init")
-![signin](images/signin.png?raw=true "singin")
-![connect](images/connect.png?raw=true "connect")
-![siren](images/siren.png?raw=true "siren")
+![welcome](../images/welcome.png?raw=true "welcome")
+![frame](../images/frames.png?raw=true "frame")
+![init](../images/init.png?raw=true "init")
+![signin](../images/signin.png?raw=true "singin")
+![connect](../images/connect.png?raw=true "connect")
+![siren](../images/siren.png?raw=true "siren")
 
 
 ## Architecture
