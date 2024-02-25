@@ -19,7 +19,7 @@ visual and haptic cues from noises in surroundings, giving more information to d
 2. Ensure that you have installed a phone emulator/android phone and a square WearOS emulator on your device. 
 3. Git clone this project 
 4. Open CMD
-5. Navigate to auricurrus-mobile
+5. Navigate to auricurrus-frontend
 6. Navigate to auricurrus-watch in a different terminal
 7. Open your editor in respective directories
 8. Install dependencies on both editors
